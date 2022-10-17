@@ -19,6 +19,6 @@ The technologies used in this project:
   5. Airflow
   
 How to use
-First run the uploadFiles.py to upload files to the s3 buckets 'input'.
-After that run the eil.py that will Extract, Transfer, Load data to another s3 bucket 'output'.
-Then initaite the airlflow appache server and run the dag.
+First run the uploadFiles.py to upload files to the s3 buckets 'input'.<br>
+After that run the eil.py that will Extract, Transfer, Load data to another s3 bucket 'output'.<br>
+Then initaite the airlflow appache server and run the dag.<br>
